@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Display Looping Integers Horizontally", "Display Looping Integers Horizontally.vbproj", "{935641B8-CF64-4B42-AC87-C46D65BAD4D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{935641B8-CF64-4B42-AC87-C46D65BAD4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935641B8-CF64-4B42-AC87-C46D65BAD4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935641B8-CF64-4B42-AC87-C46D65BAD4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935641B8-CF64-4B42-AC87-C46D65BAD4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B701A2D1-CBBA-457D-9EDB-21DBCC514A59}
+	EndGlobalSection
+EndGlobal
